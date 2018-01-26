@@ -1,14 +1,15 @@
-Title         : Welcome
-Author        : You
+
+Title         : Witam w edytorze Madoko!
+Author        : Kazimierz Ossowski 
 Logo          : True
 
-[TITLE]
+[TITLE] Test edytora Madoko.
 
 # Madoko 
 
-Madoko is a fast markdown processor for writing professional articles
-with a focus on simplicity and plain text readability.
-
+**Madoko is a fast markdown processor for writing professional articles
+with a focus on simplicity and plain text readability.**
+***
 * Read the [reference manual].
 * Explore the upper-right toolbox menu to discover how Markdown works. 
 * `Alt-Q` reformats the current paragraph.
